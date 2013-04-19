@@ -1,16 +1,15 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'gb_mapfish_print/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "gb_mapfish_print"
-  spec.version       = GbMapfishPrint::VERSION
+  spec.version       = "0.1"
   spec.authors       = ["Pirmin Kalberer"]
   spec.email         = ["pka@sourcepole.ch"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Gem package of mapfish-print Java module}
+  spec.summary       = %q{A component of http://www.mapfish.org for printing templated cartographic maps. This module is the java serverside module. It works well with the mapfish print javascript module.}
+  spec.homepage      = "http://www.mapfish.org/doc/print/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
