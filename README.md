@@ -1,6 +1,8 @@
-# GbMapfishPrint
+# MapFish Print Gem
 
-TODO: Write a gem description
+Gem package of [MapFish Print](http://www.mapfish.org/doc/print/) Java module.
+
+mapfish-print is a component of http://www.mapfish.org for printing templated cartographic maps. This module is the java serverside module. It works well with the mapfish print javascript module.
 
 ## Installation
 
@@ -18,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+See [Mapfish Appserver](https://github.com/pka/gb_mapfish_appserver) documentation for printing with UMN Mapserver and [MapFish Print](http://www.mapfish.org/doc/print/configuration.html) for print template configuration.
 
 ## Contributing
 

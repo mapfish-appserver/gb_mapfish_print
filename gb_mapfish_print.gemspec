@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.description   = %q{Gem package of mapfish-print Java module}
   spec.summary       = %q{A component of http://www.mapfish.org for printing templated cartographic maps. This module is the java serverside module. It works well with the mapfish print javascript module.}
   spec.homepage      = "http://www.mapfish.org/doc/print/"
-  spec.license       = "MIT"
+  spec.license       = "GPL"
 
   spec.files         = `git ls-files`.split($/)
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
