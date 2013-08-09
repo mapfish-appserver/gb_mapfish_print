@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-See [Mapfish Appserver](https://github.com/pka/gb_mapfish_appserver) documentation for printing with UMN Mapserver and [MapFish Print](http://www.mapfish.org/doc/print/configuration.html) for print template configuration.
+See [Mapfish Appserver](http://mapfish-appserver.github.io/) documentation for printing with UMN Mapserver and [MapFish Print](http://www.mapfish.org/doc/print/configuration.html) for print template configuration.
 
 ## Contributing
 

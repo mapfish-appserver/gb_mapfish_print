@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "gb_mapfish_print"
-  spec.version       = "0.1"
+  spec.version       = "0.1.1"
   spec.authors       = ["Pirmin Kalberer"]
   spec.email         = ["pka@sourcepole.ch"]
   spec.description   = %q{Gem package of mapfish-print Java module}
